@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ticketmaster_id">ID</string>
+    <string name="ticketmaster_url">URL</string>
+    <string name="ticketmaster_client">CLIENT</string>
+    <string name="ticketmaster_api_key">API KEY</string>
+</resources>
